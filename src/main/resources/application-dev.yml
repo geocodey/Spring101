@@ -1,0 +1,6 @@
+### show sql because of DEV profile
+spring:
+ jpa:
+  properties:
+    hibernate:
+      show_sql: true
